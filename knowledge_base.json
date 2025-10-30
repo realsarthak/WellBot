@@ -1,0 +1,52 @@
+{
+  "conditions": {
+    "headache": {
+      "description": "A painful sensation in any part of the head, ranging from sharp to dull.",
+      "symptoms": ["pain in the head", "pressure", "sensitivity to light"],
+      "first_aid": "Rest in a quiet, dark room, stay hydrated, and apply a cold pack to your forehead.",
+      "prevention": "Ensure you get enough sleep, manage stress, and avoid known triggers like certain foods or strong smells."
+    },
+    "fever": {
+      "description": "A temporary increase in body temperature, often due to an illness.",
+      "symptoms": ["high temperature", "sweating", "chills", "muscle aches"],
+      "first_aid": "Get plenty of rest and drink lots of fluids like water or broth to prevent dehydration.",
+      "prevention": "Wash your hands frequently and avoid touching your face to prevent infections."
+    },
+    "cold": {
+      "description": "A common viral infection of your nose and throat (upper respiratory tract).",
+      "symptoms": ["runny or stuffy nose", "sore throat", "cough", "sneezing"],
+      "first_aid": "Rest, drink warm fluids like soup or tea, and use a humidifier to ease congestion.",
+      "prevention": "Wash hands often, avoid close contact with sick people, and maintain a healthy lifestyle."
+    },
+    "cut": {
+      "description": "A break in the skin caused by a sharp object.",
+      "symptoms": ["bleeding", "pain", "opening in the skin"],
+      "first_aid": "For a minor cut, wash the area with soap and water, apply an antiseptic, and cover it with a sterile bandage.",
+      "prevention": "Be careful when handling sharp objects like knives or scissors."
+    },
+    "burn": {
+      "description": "Damage to the skin caused by heat, chemicals, electricity, or radiation.",
+      "symptoms": ["red skin", "pain", "blisters", "swelling"],
+      "first_aid": "For a minor burn, immediately run cool water over the area for 10-15 minutes. Cover it loosely with a sterile gauze bandage.",
+      "prevention": "Use caution around hot surfaces and liquids. Install smoke alarms in your home."
+    }
+  },
+  "responses": {
+    "greeting": {
+      "en": "Hello! I am the Global Wellness Chatbot. How can I assist you today?",
+      "hi": "नमस्ते! मैं ग्लोबल वेलनेस चैटबॉट हूँ। मैं आज आपकी कैसे सहायता कर सकता हूँ?"
+    },
+    "farewell": {
+      "en": "You're welcome! Stay healthy and feel free to ask more questions anytime.",
+      "hi": "आपका स्वागत है! स्वस्थ रहें और किसी भी समय और प्रश्न पूछने में संकोच न करें।"
+    },
+    "fallback": {
+      "en": "I can provide general information on common topics like headache, fever, or first aid for minor cuts. For any medical diagnosis, please consult a healthcare professional.",
+      "hi": "मैं सिरदर्द, बुखार, या मामूली चोटों के लिए प्राथमिक उपचार जैसे सामान्य विषयों पर जानकारी प्रदान कर सकता हूँ। किसी भी चिकित्सीय निदान के लिए, कृपया एक स्वास्थ्य पेशेवर से परामर्श करें।"
+    },
+    "disclaimer": {
+        "en": "⚠️ This is general wellness advice, not a medical diagnosis. Please consult a doctor for accurate guidance.",
+        "hi": "⚠️ यह केवल सामान्य जानकारी है, चिकित्सीय निदान नहीं। कृपया सटीक मार्गदर्शन के लिए डॉक्टर से परामर्श लें।"
+    }
+  }
+}

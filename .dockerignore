@@ -1,0 +1,16 @@
+chatbot-env/
+venv/
+*.venv/
+
+healthbot.sqlite
+healthbot.sqlite-journal
+
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+secrets.toml
+
+.git/
+.gitignore
+*.md

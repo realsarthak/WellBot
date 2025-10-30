@@ -1,0 +1,8 @@
+streamlit
+bcrypt
+spacy
+transformers
+sentencepiece
+torch
+pandas
+sentence-transformers
